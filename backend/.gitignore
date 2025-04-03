@@ -1,0 +1,14 @@
+# Fichiers Python
+*.pyc
+__pycache__/
+
+# Environnement virtuel
+venv/
+env/
+
+# Clés secrètes et fichiers sensibles
+*.env
+db.sqlite3
+
+# Logs et fichiers temporaires
+*.log
